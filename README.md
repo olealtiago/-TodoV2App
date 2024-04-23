@@ -1,5 +1,5 @@
 Tarefa desenvolvida por:
-  Guilherme Santos de Godoy
+  Guilherme Santos de Godoy,
   Tiago Lucas Leal
 
 Use o projeto TodoV2App com base; disponível em:
