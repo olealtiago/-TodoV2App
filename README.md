@@ -1,3 +1,7 @@
+Tarefa desenvolvida por:
+  Guilherme Santos de Godoy
+  Tiago Lucas Leal
+
 Use o projeto TodoV2App com base; disponível em:
 
 https://github.com/andreendo/mobapps-course/tree/master/03-4-TodoV2App
